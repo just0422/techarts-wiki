@@ -1,11 +1,16 @@
 <!-- TITLE: Welcome to Tech Arts -->
 <!-- SUBTITLE: Below, you'll find everything you need whether you're joining our team for the first time or already here! -->
 
-# Header
-<span style="text-align: center;">This is the techarts homepage</span>
-But!! Here is a link to the lights page: [Lights](/light/101)
+### TA Logo Goes HERE!!!!
 
-![Grandma 2](/uploads/grandma-2.jpg "Grandma 2")
-
-# Page 2
-## sub header :D
+# New Members
+Hey! Welcome to TechArts. Please refer to the links below as you go through the process of becoming one of our dream teammates.
+* [Teammate Guide](/new members/team guide)
+* [Getting Started](/new members/getting started)
+# Dream Teammates
+## Audio
+## Lights
+## Media
+## ProPresenter
+## Stagehands
+## Video
