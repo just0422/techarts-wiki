@@ -5,8 +5,8 @@
 
 # New Members
 Hey! Welcome to TechArts. Please refer to the links below as you go through the process of becoming one of our dream teammates.
-* [Teammate Guide](/new members/team guide)
-* [Getting Started](/new members/getting started)
+* [Teammate Guide](/new_members/team_guide)
+* [Getting Started](/new_members/getting_started)
 # Dream Teammates
 ## Audio
 ## Lights
