@@ -9,8 +9,8 @@ Hey! Welcome to TechArts. Please refer to the links below as you go through the 
 * [Getting Started](/new_members/getting_started)
 # Dream Teammates
 ## Audio
-* [A1 Trainng](/audio/training/a-1)
-* [A2 Training](/audio/training/a-2)
+* [A1 Trainng](/audio/training/a-1/101)
+* [A2 Training](/audio/training/a-2/101)
 * [Standards](/audio/standards)
 ## Lights
 ## Media
