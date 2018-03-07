@@ -1,4 +1,4 @@
-<!-- TITLE: Tech Arets Dream Team Guide -->
+<!-- TITLE: Tech Arts Dream Team Guide -->
 <!-- SUBTITLE: You're in the right place if you're trying to find out who we are, why we do what we do, and if that aligns with you -->
 
 # Team Vision
