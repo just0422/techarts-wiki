@@ -4,7 +4,7 @@
 ### TA Logo Goes HERE!!!!
 
 # New Members
-Hey! Welcome to TechArts. Please refer to the links below as you go through the process of becoming one of our dream teammates.
+Hey! Welcome to Tech Arts. Please refer to the links below as you go through the process of becoming one of our dream teammates.
 * [Teammate Guide](/new-members/team-guide)
 * [Getting Started](/new-members/get-started)
 # Dream Teammates
