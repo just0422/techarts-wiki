@@ -9,4 +9,3 @@ We know that God will always have his way. We understand that lights, albeit awe
 
 Yes that's a radical example, but explicitly defined nonetheless. Here is something a little more subtle:
 > At the end of the worship portion of our service, someone comes up on stage, greets our congregation, and allows them to greet eachother. While greeting someone, it's pretty clear that you'd like to see their face. In this instance we have to raise lights from a "worship" level to a "greeting" level in order to accomodate this moment. While it may be *possible* to see somebody when lights are dim, it may not be *easy*.
-# How do we do it?
