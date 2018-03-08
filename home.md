@@ -13,7 +13,8 @@ Hey! Welcome to TechArts. Please refer to the links below as you go through the 
 * [A2 Training](/audio/trainng/a-2/101)
 * [Standards](/audio/standards)
 ## Lights
-* [Documentation](/lights/documentats)
+* [Documentation](/lights/documents)
+* [Standards](/lights/standards)
 ## Media
 ## ProPresenter
 ## Stagehands
