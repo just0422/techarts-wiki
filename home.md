@@ -15,6 +15,7 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 ## Lights
 * [Documentation](/lights/documents)
 * [Standards](/lights/standards)
+* [Training](/lights/training)
 ## Media
 ## ProPresenter
 ## Stagehands
