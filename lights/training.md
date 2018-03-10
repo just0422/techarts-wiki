@@ -9,5 +9,5 @@ Before you read on, I suggest you arrange a service of _shadowing_
 * [201 - Terms and Definitions](/lights/training-pages/201)
 * [202 - GrandMA is your friend (Part 1)](/lights/training-pages/202)
 * 203 - GrandMA is your Friend (Part 2)
-   * [CTG](/lights/training-pages/203g) 
-   * [CTB](/lights/training-pages/203b)
+   * [203 CTG](/lights/training-pages/203g) 
+   * [203 CTB](/lights/training-pages/203b)
