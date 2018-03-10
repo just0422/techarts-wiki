@@ -8,4 +8,4 @@ With that said, before you start read, you should *shadow* one of our lighting b
 Before you read on, I suggest you arrange a service of _shadowing_
 * [201 - Terms and Definitions](/lights/training-pages/201)
 * [202 - GrandMA is your friend (Part 1)](/lights/training-pages/202)
-* [203G - GrandMA is your friend (Part 2)](/lights/training-pages/203g)     [203B - GrandMA is your friend (Part 2)](/lights/training-pages/203b)
+* * [203G - GrandMA is your friend (Part 2)](/lights/training-pages/203g)     [203B - GrandMA is your friend (Part 2)](/lights/training-pages/203b)
