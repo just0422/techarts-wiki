@@ -11,3 +11,5 @@ Before you read on, I suggest you arrange a service of _shadowing_
 * 203 - GrandMA is your Friend (Part 2)
    * [203 CTG](/lights/training-pages/203g) 
    * [203 CTB](/lights/training-pages/203b)
+When you reach here, sit down and play with the lighting board to practice what you've learned
+*Then* do some *shadowing*
