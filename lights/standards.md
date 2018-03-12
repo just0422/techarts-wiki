@@ -4,7 +4,7 @@
 # What do we do?
 On the lighting team, we used conventional, LED, and moving lights to create an atmosphere appropriate to the moment.
 # Why do we do what we do?
-We know that God will always have his way. We understand that lights, albeit awesome, are not necessary for God to move. However, we understand that God can use the lights we command to draw his children closer to him. Therefore, we always strive to be sensitive to each moment of our service. 
+We know that God will always have his way. We understand that lights, albeit awesome, are not necessary for God to move. However, we understand that God can use the lights we command to draw his children closer to him. Therefore, we always strive to be create an atmosphoere that is sensitive to each unique moment of our service. 
 > For instance, if our worship teammates are on stage singing a slow, moving song, then we understand that it is not the appropriate time to strobe lights. 
 
 Yes that's a radical example, but explicitly defined nonetheless. Here is something a little more subtle:
