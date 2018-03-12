@@ -11,9 +11,9 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 ## Everyone
 * Glossary of terms
 ## Audio
-* [A1 Trainng](/audio/trainng/a-1/101)
-* [A2 Training](/audio/trainng/a-2/101)
+* [Documentation](/audio/documents)
 * [Standards](/audio/standards)
+* [Training](/audio/training)
 ## Lights
 * [Documentation](/lights/documents)
 * [Standards](/lights/standards)
