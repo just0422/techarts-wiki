@@ -19,6 +19,9 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [Standards](/lights/standards)
 * [Training](/lights/training) **IN PROGRESS**
 ## Media
-## ProPresenter
+* [Documentation](/media/documents) **IN PROGRESS**
+* [Standards](/media/standards) **NOT DONE**
+* [Training](/media/training) **NOT DONE**
+## Producers
 ## Stagehands
 ## Video
