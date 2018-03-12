@@ -1,4 +1,4 @@
-<!-- TITLE: Standards -->
+<!-- TITLE: What and Why? -->
 <!-- SUBTITLE: As a Lighting Board Operator, you are expected to create an environment that enhances the experience of our congregation -->
 
 # What do we do?
