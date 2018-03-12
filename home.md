@@ -11,13 +11,13 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 ## Everyone
 * Glossary of terms
 ## Audio
-* [Documentation](/audio/documents)
-* [Standards](/audio/standards)
-* [Training](/audio/training)
+* [Documentation](/audio/documents) **IN PROGRESS**
+* [Standards](/audio/standards) **NOT DONE**
+* [Training](/audio/training) **NOT DONE**
 ## Lights
 * [Documentation](/lights/documents)
 * [Standards](/lights/standards)
-* [Training](/lights/training)
+* [Training](/lights/training) **IN PROGRESS**
 ## Media
 ## ProPresenter
 ## Stagehands
