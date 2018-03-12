@@ -5,9 +5,9 @@
 On a weekly basis, there is one lighting board operator who takes command of the whole system at each campus
 # What do we do?
 On the lighting team, we used conventional, LED, and moving lights to create an atmosphere appropriate to the moment.
-# Where do we do?
+# Where do we do what we do?
 In both of our sanctuaries, we have a tech booth where our lighting board operators do their thing
-# When do we do?
+# When do we do what we do?
 Currently, there's a rotation of 3 ops at CTG. You could be #1!
 At the moment, there are trainees at CTB vying to claim the top spot as CTB LBO.
 # Why do we do what we do?
