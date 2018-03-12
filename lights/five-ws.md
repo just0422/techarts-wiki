@@ -1,8 +1,15 @@
-<!-- TITLE: What and Why? -->
+<!-- TITLE: Who, what, where, when, and why? -->
 <!-- SUBTITLE: As a Lighting Board Operator, you are expected to create an environment that enhances the experience of our congregation -->
 
+# Who does what we do?
+On a weekly basis, there is one lighting board operator who takes command of the whole system at each campus
 # What do we do?
 On the lighting team, we used conventional, LED, and moving lights to create an atmosphere appropriate to the moment.
+# Where do we do?
+In both of our sanctuaries, we have a tech booth where our lighting board operators do their thing
+# When do we do?
+Currently, there's a rotation of 3 ops at CTG. You could be #1!
+At the moment, there are trainees at CTB vying to claim the top spot as CTB LBO.
 # Why do we do what we do?
 We know that God will always have his way. We understand that lights, albeit awesome, are not necessary for God to move. However, we understand that God can use the lights we command to draw his children closer to him. Therefore, we always strive to be create an atmosphoere that is sensitive to each unique moment of our service. 
 > For instance, if our worship teammates are on stage singing a slow, moving song, then we understand that it is not the appropriate time to strobe lights. 
