@@ -18,7 +18,7 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 ## Lights
 * [5W's of Lights](/lights/five-ws)
 * [Documentation](/lights/documents)
-* [Standards](/lights/standards)
+* [Standards](/lights/standards) **NOT DONE**
 * [Training](/lights/training) **IN PROGRESS**
 ## Media
 * [5W's of Media](/media/five-ws) **NOT DONE**
