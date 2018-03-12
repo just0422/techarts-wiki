@@ -11,6 +11,7 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 ## Everyone
 * Glossary of terms
 ## Audio
+* [5W's of audio](/audio/five-ws) **NOT DONE**
 * [Documentation](/audio/documents) **IN PROGRESS**
 * [Standards](/audio/standards) **NOT DONE**
 * [Training](/audio/training) **NOT DONE**
@@ -20,9 +21,22 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [Standards](/lights/standards)
 * [Training](/lights/training) **IN PROGRESS**
 ## Media
+* [5W's of Media](/media/five-ws) **NOT DONE**
 * [Documentation](/media/documents) **IN PROGRESS**
 * [Standards](/media/standards) **NOT DONE**
 * [Training](/media/training) **NOT DONE**
 ## Producers
+* [5W's of Media](/producers/five-ws) **NOT DONE**
+* [Documentation](/producers/documents) **NOT DONE**
+* [Standards](/producers/standards) **NOT DONE**
+* [Training](/producers/training) **NOT DONE**
 ## Stagehands
+* [5W's of Media](/stagehands/five-ws) **NOT DONE**
+* [Documentation](/stagehands/documents) **NOT DONE**
+* [Standards](/stagehands/standards) **NOT DONE**
+* [Training](/stagehands/training) **NOT DONE*
 ## Video
+* [5W's of Media](/video/five-ws) **NOT DONE**
+* [Documentation](/video/documents) **NOT DONE**
+* [Standards](/video/standards) **NOT DONE**
+* [Training](/video/training) **NOT DONE*
