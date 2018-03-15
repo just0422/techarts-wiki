@@ -17,7 +17,7 @@ Before you read on, I suggest you arrange a service of _shadowing_
 When you reach here, sit down and play with the lighting board to practice what you've learned
 *Then* do some *shadowing*
 
-* 301 - Cues and Lists and everything else
+* [301 - Cues and Lists and everything else](/lights/training-pages/301)
 * 302 - How do we "do lights"?
 * 303 - Sample Service flow
 
