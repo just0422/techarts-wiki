@@ -26,17 +26,17 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [Standards](/media/standards) **NOT DONE**
 * [Training](/media/training) **NOT DONE**
 ## Producers
-* [5W's of Media](/producers/five-ws) **NOT DONE**
+* [5W's of Producers](/producers/five-ws) **NOT DONE**
 * [Documentation](/producers/documents) **NOT DONE**
 * [Standards](/producers/standards) **NOT DONE**
 * [Training](/producers/training) **NOT DONE**
 ## Stagehands
-* [5W's of Media](/stagehands/five-ws) **NOT DONE**
+* [5W's of Stagehands](/stagehands/five-ws) **NOT DONE**
 * [Documentation](/stagehands/documents) **NOT DONE**
 * [Standards](/stagehands/standards) **NOT DONE**
 * [Training](/stagehands/training) **NOT DONE**
 ## Video
-* [5W's of Media](/video/five-ws) **NOT DONE**
+* [5W's of Video](/video/five-ws) **NOT DONE**
 * [Documentation](/video/documents) **NOT DONE**
 * [Standards](/video/standards) **NOT DONE**
 * [Training](/video/training) **NOT DONE**
