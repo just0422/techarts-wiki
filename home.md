@@ -11,7 +11,7 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 ## Everyone
 * Glossary of terms
 ## Audio
-* [5W's of audio](/audio/five-ws) **NOT DONE**
+* [5W's of audio](http://165.227.82.70:11656/audio/five-ws) **NOT DONE**
 * [Documentation](/audio/documents) **IN PROGRESS**
 * [Standards](/audio/standards) **NOT DONE**
 * [Training](/audio/training) **NOT DONE**
