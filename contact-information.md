@@ -1,5 +1,4 @@
-<!-- TITLE: Contact Information -->
-<!-- SUBTITLE: A quick summary of Contact Information -->
+<!-- TITLE: Usefull Contact Information -->
 
 | Name | Campus | Role | Phone Number | Slack Username |
 | ------ | --------- | ----- | ----------------- | ------------------ |
