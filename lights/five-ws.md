@@ -4,7 +4,7 @@
 Lighting Team Lead:
 Justin Maldonado 
 Phone: (347) 922-5075
-Slack: [@justin_thelightingguy](slack://user?team={T025T2WPG}&id={D18T8KBEV})
+Slack: [@justin_thelightingguy](slack://user?team={T025T2WPG}&id={D025SN9VD})
 # Who does what we do?
 On a weekly basis, there is one lighting board operator who takes command of the whole system at each campus
 # What do we do?
