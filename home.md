@@ -11,7 +11,7 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 ## Everyone
 * Glossary of terms
 ## Audio
-* [5W's of Audio](audio/five-ws) **NOT DONE**
+* [5W's of Audio](audio/five-ws) **IN PROGRESS
 * [Documentation](/audio/documents) **IN PROGRESS**
 * [Standards](/audio/standards) **NOT DONE**
 * [Training](/audio/training) **NOT DONE**
@@ -26,7 +26,7 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [Standards](/media/standards) **NOT DONE**
 * [Training](/media/training) **NOT DONE**
 ## Producers
-* [5W's of Producers](/producers/five-ws) **NOT DONE**
+* [5W's of Producers](/producers/five-ws) **IN PROGRESS**
 * [Documentation](/producers/documents) **NOT DONE**
 * [Standards](/producers/standards) **NOT DONE**
 * [Training](/producers/training) **NOT DONE**
