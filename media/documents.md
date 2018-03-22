@@ -5,6 +5,5 @@
 * [ProPresenter 6](https://www.renewedvision.com/downloads/pro6userguide.pdf)
 
 # Routing Diagram
-Make diagram in https://www.draw.io/
 **INSERT PROPRESENTER STAGE DISPLAY SCREENSHOT**
 ![Media Config](/uploads/media-diagrams/media-config.jpg "Media Config"){.align-center}
