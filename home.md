@@ -9,7 +9,8 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [Getting Started](/new-members/get-started)
 # Dream Teammates
 ## Everyone
-* Glossary of terms
+* Glossary of terms **NOT DONE**
+* Useful Contact Information **NOT DONE**
 ## Audio
 * [5W's of Audio](audio/five-ws) **IN PROGRESS**
 * [Documentation](/audio/documents) **IN PROGRESS**
