@@ -10,9 +10,9 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 # Dream Teammates
 ## Everyone
 * Glossary of terms **NOT DONE**
-* Useful Contact Information **NOT DONE**
+* [Useful Contact Information](/contact-information) **NOT DONE**
 ## Audio
-* [5W's of Audio](audio/five-ws) **IN PROGRESS**
+* [5W's of Audio](/audio/five-ws) **IN PROGRESS**
 * [Documentation](/audio/documents) **IN PROGRESS**
 * [Standards](/audio/standards) **NOT DONE**
 * [Training](/audio/training) **NOT DONE**
