@@ -1,6 +1,10 @@
 <!-- TITLE: Who, what, where, when, and why? -->
 <!-- SUBTITLE: As a Lighting Board Operator, you are expected to create an environment that enhances the experience of our congregation -->
 
+Lighting Team Lead:
+Justin Maldonado 
+Phone: (347) 922-5075
+Slack: (@justin_thelightingguy)(slack://user?team={T025T2WPG}&id={D18T8KBEV})
 # Who does what we do?
 On a weekly basis, there is one lighting board operator who takes command of the whole system at each campus
 # What do we do?
