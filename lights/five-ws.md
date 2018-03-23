@@ -15,7 +15,7 @@ In both of our sanctuaries, we have a tech booth where our lighting board operat
 Currently, there's a rotation of 3 ops at CTG.
 At the moment, there are trainees at CTB vying to claim the top spot as CTB LBO. You could be #1!
 # Why do we do what we do?
-As lighting board operators, our goal is to create an atmosphere that encourages the congregation to enter the presence of God. We are grateful that, through His sovereignty, He chose us to help lead His people into worship. We aim to make it easier for others to have the same encounter that we ourselves have experienced in our services.
+As lighting board operators, our goal is to create an atmosphere that encourages the congregation to enter the presence of God. We are grateful that, through His sovereignty, He chose us to help lead His people into worship. We aim to use lights to share the same encounter that we ourselves have experienced in our services with others.
 > For instance, if our worship teammates are on stage singing a slow, moving song, then we understand that it is not the appropriate time to strobe lights. 
 
 Yes that's a radical example, but explicitly defined nonetheless. Here is something a little more subtle:
