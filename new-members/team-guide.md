@@ -30,7 +30,7 @@ Defintely slack..... definitely. Maybe add a link here to something regarding sl
 Call time is 7, so be there round 7:01:44 :sunglasses:
 ## Do your checklist
 Yup, gotta put this one here
-[Click here if you like lights](165.227.82.70/checklist)
+[Click here if you like lights](http://165.227.82.70/checklist)
 # Team Positions
 ## Audio
 Listens to things.... adds bass
