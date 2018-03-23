@@ -1,7 +1,7 @@
 <!-- TITLE: Training -->
 <!-- SUBTITLE: Follow all these steps and you can take the wheel! -->
 
-Before you get into any of the following steps, I'd like to make you aware that there is a lot of shadowing involved in this process.
+Before you get into any of the following steps, I'd like to make you aware that there is a lot of _shadowing_ involved in this process.
 
 # The basics
 With that said, before you start read, you should *shadow* one of our lighting board operators once
