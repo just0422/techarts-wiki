@@ -1,7 +1,7 @@
 <!-- TITLE: Five Ws of Producers -->
 <!-- SUBTITLE: A quick summary of Five Ws -->
 Technical Producer Team Lead:
-**Melody Rivera **
+**Melody Rivera**
 Phone: 347-244-5954
 Slack:@melodyrivera 
 # Who does what we do?
