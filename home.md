@@ -22,7 +22,7 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [Standards](/lights/standards) **NOT DONE**
 * [Training](/lights/training) **IN PROGRESS**
 ## Media
-* [5W's of Media](/media/five-ws) **NOT DONE**
+* [5W's of Media](/media/five-ws) ***Awaiting Approval***
 * [Documentation](/media/documents) **IN PROGRESS**
 * [Standards](/media/standards) **NOT DONE**
 * [Training](/media/training) **IN PROGRESS**
