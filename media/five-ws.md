@@ -1,10 +1,10 @@
 <!-- TITLE: Five Ws -->
 <!-- SUBTITLE: As a media technician, you are expected utilize the tools we have to help engage people in our services -->
 
-Lighting Team Lead:
-**Justin Maldonado**
-Phone: (347) 922-5075
-Slack: @justin_thelightingguy
+Media Team Lead:
+**Veronica Munoz**
+Phone: 
+Slack: @earth1110
 # Who does what we do?
 On a weekly basis, at CTG, there are two Media technicians. One technician controls graphics and videos that go on screen, while the other contorls the lyrics.
 At CTB there is one Media technician, who controls all graphics, videos and lyrics. 
