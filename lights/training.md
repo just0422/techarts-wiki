@@ -18,8 +18,9 @@ When you reach here, sit down and play with the lighting board to practice what 
 *Then* do some *shadowing*
 
 * [301 - Cues and Lists and everything else](/lights/training-pages/301)
-* [302 - How do we "do lights"?](/lights/training-pages/302)
-* [303 - Sample Weekend flow](/lights/training-pages/303)
+* [302 - Music 101](/lights/training-pages/302)
+* [302 - How do we "do lights"?](/lights/training-pages/303)
+* [303 - Sample Weekend flow](/lights/training-pages/304)
 
 At this point, you should probably get some real practice behind the board. However, _first_, some _shadowing_.
 Then we can sit down and together and simulate services. Once we're comfortable that you'll succeed, you'll be ready for your first service.
