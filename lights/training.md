@@ -30,7 +30,7 @@ If you've reached here, you get to begin to have some real fun!
 * 401 - Intro to Effects / Chases
 # The advanced
 If you think anything before this was a challenge, just wait til you start the next part! 
-My advice: you should reach this part only when you are _absolutely_ comfortable with everything in the previous articles. What goes on after here is _not_ necessary to run a Sunday service, however, it really allows you to take command of the GrandMA lighting console
+Advice: you should reach this part only when you are _absolutely_ comfortable with everything in the previous articles. What goes on after here is _not_ necessary to run a Sunday service, however, it really allows you to take command of the GrandMA lighting console
 * 501 - Creating a cuelist
 * 502 - Creating an effect
 * 503 - Creating a chaser
