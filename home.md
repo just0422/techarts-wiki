@@ -32,7 +32,7 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [Standards](/producers/standards) **NOT DONE**
 * [Training](/producers/training) **NOT DONE**
 ## Stagehands
-* [5W's of Stagehands](/stagehands/five-ws) **NOT DONE**
+* [5W's of Stagehands](/stagehands/five-ws) **Awaiting Approval**
 * [Documentation](/stagehands/documents) **NOT DONE**
 * [Standards](/stagehands/standards) **NOT DONE**
 * [Training](/stagehands/training) **NOT DONE**
