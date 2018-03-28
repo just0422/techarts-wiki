@@ -31,8 +31,8 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [Documentation](/producers/documents) **NOT DONE**
 * [Standards](/producers/standards) **NOT DONE**
 * [Training](/producers/training) **NOT DONE**
-## Stagehands
-* [5W's of Stagehands](/stagehands/five-ws) ***Awaiting Approval***
+## Stage Crew
+* [5W's of Stage Crew](/stagehands/five-ws) ***Awaiting Approval***
 * [Documentation](/stagehands/documents) **NOT DONE**
 * [Standards](/stagehands/standards) **NOT DONE**
 * [Training](/stagehands/training) **NOT DONE**
