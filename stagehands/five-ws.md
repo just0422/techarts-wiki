@@ -1,7 +1,7 @@
 <!-- TITLE: Who, what, where, when, and why? -->
 <!-- SUBTITLE: ADD A DESCRIPTION HERE (I CANT THINK NOW) -->
 
-Lighting Team Lead:
+Stage Crew Team Lead:
 **Jose Fernandez**
 Phone: 
 Slack: @mjfernandez
