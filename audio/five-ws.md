@@ -7,7 +7,7 @@ Phone: (718) 974-0404
 Slack: @alex.bertolotti
 # Who does what we do?
 On a weekly basis, there are at least 4 members of the audio team present. One engineer operates the console that controls what the people in the sanctuary, overflow spaces, and watching our online stream of the service hears. Our other engineer operates the console that controls what the people on stage (singers, musicians, pastors, hosts) hear. The other 2 team members are assistants to our engineers.
-_At CTB, our second console is viturally operated through an iPad_
+_At CTB, we use a physical and virtual console. Our vitural console is operated through an iPad_
 # What do we do?
 On the audio team, we mix, enhance, amplify, and distribute what happens on the stage, and make it sonically presentable to the congregation in the room and those in our online audience. We also help those on the stage convey their message (both musical and non-musical) freely and without distraction.
 # Where do we do what we do?
