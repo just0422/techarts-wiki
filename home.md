@@ -12,7 +12,7 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * Glossary of terms **NOT DONE**
 * [Useful Contact Information](/contact-information) **IN PROGRESS**
 ## Audio
-* [5W's of Audio](/audio/five-ws) ***Avaiting Approval***
+* [5W's of Audio](/audio/five-ws) ***Avaiting Approval (Needs info)***
 * [Documentation](/audio/documents) **IN PROGRESS**
 * [Standards](/audio/standards) **NOT DONE**
 * [Training](/audio/training) **NOT DONE**
@@ -32,7 +32,7 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [Standards](/producers/standards) **NOT DONE**
 * [Training](/producers/training) **NOT DONE**
 ## Stage Crew
-* [5W's of Stage Crew](/stagehands/five-ws) ***Awaiting Approval***
+* [5W's of Stage Crew](/stagehands/five-ws) ***Awaiting Approval (Needs info)***
 * [Documentation](/stagehands/documents) **NOT DONE**
 * [Standards](/stagehands/standards) **NOT DONE**
 * [Training](/stagehands/training) **NOT DONE**
