@@ -12,7 +12,7 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * Glossary of terms **NOT DONE**
 * [Useful Contact Information](/contact-information) **IN PROGRESS**
 ## Audio
-* [5W's of Audio](/audio/five-ws) **IN PROGRESS**
+* [5W's of Audio](/audio/five-ws) ***Avaiting Approval***
 * [Documentation](/audio/documents) **IN PROGRESS**
 * [Standards](/audio/standards) **NOT DONE**
 * [Training](/audio/training) **NOT DONE**
