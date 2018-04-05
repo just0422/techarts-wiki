@@ -11,7 +11,7 @@ With that said, you should contact Veronica and she'll help arrange a server whe
 * [104 - Media Theory](/media/traning-pages/104) **timing and music**
 
 _Shadowing_?
-* [201 - Documents / Playlists](/media/training-pages/201)
+* [201 - Creation](/media/training-pages/201)
 * [202 - Editing](/media/training-pages/201)
 	* Edit slides
 		* Quitck edit
