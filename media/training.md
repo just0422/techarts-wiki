@@ -6,9 +6,8 @@ Before you get started, there's a quick note. We like to make sure that everyone
 With that said, you should contact Veronica and she'll help arrange a server where you can _shadow_ our Media technicians in the control room.
 
 * [101 - How do we do it?](/media/training-pages/101)
-* [102 - Primary Output](/media/training-pages/102)
+* [102 - Primary Output](/media/training-pages/102) **talk about timing here**
 * [103 - Stage Display](/media/training-pages/103)
-* [104 - Media Theory](/media/traning-pages/104) **timing and music**
 
 _Shadowing_?
 * [201 - Creation](/media/training-pages/201)
