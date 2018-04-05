@@ -8,6 +8,7 @@ With that said, you should contact Veronica and she'll help arrange a server whe
 * [101 - How do we do it?](/media/training-pages/101)
 * [102 - Primary Output](/media/training-pages/102) **talk about timing here**
 * [103 - Stage Display](/media/training-pages/103)
+* [104 - Media Theory](/media/training-pages/104)
 
 _Shadowing_?
 * [201 - Creation](/media/training-pages/201)
