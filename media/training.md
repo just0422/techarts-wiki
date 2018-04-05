@@ -8,3 +8,21 @@ With that said, you should contact Veronica and she'll help arrange a server whe
 * [101 - How do we do it?](/media/training-pages/101)
 * [102 - Primary Output](/media/training-pages/102) 
 * [103 - Stage Display](/media/training-pages/103)
+
+_Shadowing_?
+* [201 - Documents / Playlists](/media/training-pages/201)
+* [202 - Editing](/media/training-pages/201) **Don't forget reflow editor**
+	* Edit slides
+		* Quitck edit
+		* Reflow
+		* Editor
+	* Groups
+		* Colors
+		* Arrangements
+	* Adding backgrounds
+		* Media bin
+		* Add to slide
+* [203 - Templates](/media/training-pages/203)
+	* Application
+	* Modification
+* [204 - Cues](/media/training-pages/204)
