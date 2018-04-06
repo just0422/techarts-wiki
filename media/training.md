@@ -18,8 +18,8 @@ _Shadowing_?
 		* Reflow
 		* Editor
 	* Adding backgrounds
-		* Media bin
 		* Add to slide
+		* Media Properties
 * [203 - Grouping](/media/training-pages/203)
 	* Arrangements
 * [204 - Templates](/media/training-pages/204)
