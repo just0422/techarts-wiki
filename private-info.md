@@ -1,4 +1,4 @@
-<style>table { text-align: center; }</style>
+<style>td { text-align: center; }</style>
 
 <!-- TITLE: Private Info -->
 # Passwords
