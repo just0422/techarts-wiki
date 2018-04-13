@@ -1,5 +1,3 @@
-<style>td { text-align: center; }</style>
-
 <!-- TITLE: Private Info -->
 # Passwords
 | Purpose | User | Password |
@@ -14,3 +12,5 @@
 | Program | Registered to | License Key |
 | --- | --- | --- |
 | ProPresenter | Christ Tabernacle | L6A31-03ECD-92162-3V1MX-6NEWU-97CC2 |
+
+<style>td { text-align: center; }</style>
