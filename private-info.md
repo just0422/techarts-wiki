@@ -1,3 +1,5 @@
+<style>table { text-align: center; }</style>
+
 <!-- TITLE: Private Info -->
 # Passwords
 | Purpose | User | Password |
