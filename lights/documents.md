@@ -1,7 +1,5 @@
 <!-- TITLE: Documents -->
 
-# Patch Sheets
-To be done one day
 # Manuals
 ## Consoles
 * [GrandMA Series 1](http://www.actlighting.com/MA/pdf/grandMA6.0e.pdf)
@@ -26,3 +24,6 @@ To be done one day
 * [Chauvet DMX-4](https://www.chauvetdj.com/wp-content/uploads/2015/12/DMX-4_UM_Rev3_WO-1.pdf)
 * [Chauvet Data Stream 4](https://www.chauvetdj.com/wp-content/uploads/2015/12/Data_Stream_4_UM_Rev2_WO-1.pdf)
 * [Antari HZ-350](http://cdb.s3.amazonaws.com/ItemRelatedFiles/10017/HZ-350%20User%20Manual.pdf)
+
+# Patch Sheets
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT7JXFlvDVbuUUGtY0KbblRl3vBvHmCgdWjCGbeAoaqtwHCr6fpFQm9Kt4o0fS-oGyhCnBB_jBNnBma/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
