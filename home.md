@@ -28,7 +28,7 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [Training](/media/training) **IN PROGRESS**
 ## Producers
 * [5W's of Producers](/producers/five-ws) **IN PROGRESS**
-* [Documentation](/producers/documents) **NOT DONE**
+* [Documentation](/producers/documents) **IN PROGRESS**
 * [Standards](/producers/standards) **NOT DONE**
 * [Training](/producers/training) **NOT DONE**
 ## Stage Crew
