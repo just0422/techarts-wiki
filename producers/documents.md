@@ -1,5 +1,5 @@
 <!-- TITLE: Producer Documents -->
-<!-- SUBTITLE: A quick summary of Documents -->
+<!-- SUBTITLE: Know this and you can produce the best productions -->
 
 # Manuals
 * [ShoFlo](http://learn.shoflo.tv/)
