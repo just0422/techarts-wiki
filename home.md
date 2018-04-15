@@ -38,6 +38,6 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [Training](/stagehands/training) **NOT DONE**
 ## Video
 * [5W's of Video](/video/five-ws)
-* [Documentation](/video/documents) **NOT DONE**
+* [Documentation](/video/documents) **IN PROGRESS**
 * [Standards](/video/standards) **NOT DONE**
 * [Training](/video/training) **NOT DONE**
