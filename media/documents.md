@@ -1,5 +1,5 @@
-<!-- TITLE: Documents -->
-<!-- SUBTITLE: A quick summary of Documents -->
+<!-- TITLE: Media Documents -->
+<!-- SUBTITLE: These can make someone a media pro -->
 
 # Manuals
 * [ProPresenter 6](https://www.renewedvision.com/downloads/pro6userguide.pdf)
