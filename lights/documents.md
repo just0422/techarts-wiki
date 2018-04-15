@@ -26,4 +26,4 @@
 * [Antari HZ-350](http://cdb.s3.amazonaws.com/ItemRelatedFiles/10017/HZ-350%20User%20Manual.pdf)
 
 # Patch Sheets
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT7JXFlvDVbuUUGtY0KbblRl3vBvHmCgdWjCGbeAoaqtwHCr6fpFQm9Kt4o0fS-oGyhCnBB_jBNnBma/pubhtml?widget=true&amp;headers=false" style="width: 96%; height: 100%; margin: 2%;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT7JXFlvDVbuUUGtY0KbblRl3vBvHmCgdWjCGbeAoaqtwHCr6fpFQm9Kt4o0fS-oGyhCnBB_jBNnBma/pubhtml?widget=true&amp;headers=false" style="width: 96%; height: 4rem; margin: 2%;"></iframe>
