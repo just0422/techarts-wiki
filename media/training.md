@@ -13,13 +13,6 @@ With that said, you should contact Veronica and she'll help arrange a server whe
 _Shadowing_?
 * [201 - Creation](/media/training-pages/201)
 * [202 - Editing](/media/training-pages/202)
-	* Edit slides
-		* Quitck edit
-		* Reflow
-		* Editor
-	* Adding backgrounds
-		* Add to slide
-		* Media Properties
 * [203 - Grouping](/media/training-pages/203)
 	* Arrangements
 * [204 - Templates](/media/training-pages/204)
