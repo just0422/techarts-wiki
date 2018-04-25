@@ -14,7 +14,6 @@ _Shadowing_?
 * [201 - Creation](/media/training-pages/201)
 * [202 - Editing](/media/training-pages/202)
 * [203 - Grouping](/media/training-pages/203)
-	* Arrangements
 * [204 - Templates](/media/training-pages/204)
 	* Application
 	* Modification
