@@ -3,6 +3,12 @@
 
 # Team Vision
 Tech arts is a place where God uses, grows and stretches AV technicians.  while creating the environment for others to experience him in the same way."
+# Team Overview
+The Technical Arts Ministry serves in creating a dynamic environment for authentic worship and effective communication while developing genuine community among its team members.
+
+We are a team of highly motivated, committed, servant leaders who value excellence and one another.  We strive to create an environment that is inviting, and we pray that God uses our efforts to help create a “wow factor” that will lead many to Christ and life change.
+
+The ministry consists of five groups:  Audio, lighting, video, stage management, and technical producers.  Together, we are committed to working behind the scenes to ensure that the message is being communicated creatively and distraction free.
 # Team Role
 ## You're a worship leader
 Yuppp, this is true
