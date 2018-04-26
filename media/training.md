@@ -15,7 +15,5 @@ _Shadowing_?
 * [202 - Editing](/media/training-pages/202)
 * [203 - Grouping](/media/training-pages/203)
 * [204 - Templates](/media/training-pages/204)
-	* Application
-	* Modification
 * [205 - Stage Display](/media/training-pages/205)
 * [206 - Cues](/media/training-pages/206)
