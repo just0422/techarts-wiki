@@ -2,7 +2,7 @@
 <!-- SUBTITLE: You're in the right place if you're trying to find out who we are, why we do what we do, and if that aligns with you -->
 
 # Team Vision
-Tech arts is a place where God uses, grows and stretches AV technicians.  while creating the environment for others to experience him in the same way."
+Tech arts is a place where God uses, grows and stretches AV technicians.  while creating the environment for others to experience him in the same way.
 # Team Overview
 The Technical Arts Ministry serves in creating a dynamic environment for authentic worship and effective communication while developing genuine community among its team members.
 
