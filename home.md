@@ -5,7 +5,7 @@
 
 # New Members
 Hey! Welcome to Tech Arts. Please refer to the links below as you go through the process of becoming one of our dream teammates.
-* [Teammate Guide](/new-members/team-guide) **IN PROGRESS**
+* [Dream Team Guide](/new-members/team-guide) **IN PROGRESS**
 * [Getting Started](/new-members/get-started) **IN PROGRESS**
 # Dream Teammates
 ## Everyone
