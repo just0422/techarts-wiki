@@ -17,16 +17,45 @@ Don't know what this means lookig at just this phrase
 ## Creating the environment
 Little less vague, but you still need a basic understanding of product to grasp what that prhase is
 # Team Core Values
-## Relationships
-Bet we would call this community
-## Order
-IN THE COURT
-## Flexibility
-Reminds me of the incredibles. I can't wait to see the second one
-## Innovation
-Basically another word for **Lights**
 ## Excellence
-Quality over quantity!
+Excellence honors God and reflects who He is
+
+## Christ Driven 
+Serving comes from an overflow of our relationship with Jesus
+
+## People First
+Provide a safe place for people to be used by God in their gifting and grow spiritually
+
+## Sweat the small stuff
+Every detail is addressed in advance for maximum preparedness
+
+## Push the envelope 
+Continually improving, trying new things, and using what we have beyond its capacity
+
+## Whatever it takes 
+Always a “whatever it takes” attitude with a smile
+
+## No distractions
+Seamlessly integrate all elements of a service
+
+## All set
+Team members come in fully prepared in advance to minister and provide support 
+# Team Agreement
+## Attire 
+All team members are asked to wear black when serving.  Our desire is to display professionalism.
+
+## Promptness
+Being on time is key for maximum preparedness to serve.  If you are going to be late, notification should be made to your team leader.
+
+## Communication
+The team communicates via an app called “Slack”.  Each member should create an account so that they can stay abreast of all ministry concerns.
+
+## Scheduling
+Administrators will do their best to consider personal needs when making the schedule.  Scheduling is done via Planning Center On-line (PCO), an app which is available on your phone.  Each member should create an account and keep phone numbers and e-mail addresses current.  
+
+## Commitment
+Ministry members are asked to serve one Sunday per month.  Sundays will consist of all three services at the Glendale campus.  On Sunday, team members are expected to arrive at 7:00 for set up and be prepared to atatend the Dream Team Huddle at 7:45, at which time the service flow for the day is reviewed with all involved for the days services.   Additionally, the Thursday prior to the Sunday that you are scheduled to serve there will be a rehearsal starting at 7pm.
+
 # Team Responsibilities
 ## Commit to the trainng process
 #TrustTheProcess (you'll only get this joke if you like the nba)
