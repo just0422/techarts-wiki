@@ -17,3 +17,8 @@ _Shadowing_?
 * [204 - Templates](/media/training-pages/204)
 * [205 - Stage Display](/media/training-pages/205)
 * [206 - Cues](/media/training-pages/206)
+
+_Another intermediate step?_
+
+* [301 - How do we "do media"?](/media/training-pages/301)
+* [302- Sample Weekend Flow](/media/training-pages/302)
