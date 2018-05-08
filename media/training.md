@@ -21,4 +21,3 @@ _Shadowing_?
 _Another intermediate step?_
 
 * [301 - How do we "do media"?](/media/training-pages/301)
-* [302- Sample Weekend Flow](/media/training-pages/302)
