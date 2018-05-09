@@ -4,5 +4,5 @@
 # Manuals
 * [Sony NX5](http://kmvt15.org/create/guides/Sony%20NX5U_Manual.pdf)
 * [Roland V1600-HD](http://www.av-projektering.se/av_projektering/pdf/V-1600HD_manual.pdf)
-# Routing Diagrams
+# CTG Routing Diagrams
 ![Video Config](/uploads/video-diagrams/video-config.jpg "Video Config"){.align-center}
