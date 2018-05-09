@@ -9,7 +9,8 @@ On that note, let's get started:
 # The basics
 Everybody starts here. We like to make sure that all of our team members have a good foundation
 
-* 101 - Intro to sound
+* 101 - Intro to sound / How a sound system works
+* 103 - How we're setup (at CTG and CTB)
 * 102 - How we make Sunday happen
 # The not so basics
 * 201 - How to listen to music
@@ -18,5 +19,8 @@ Everybody starts here. We like to make sure that all of our team members have a 
 * 204 - How to mix music
 # The advanced
 If you've reached here, you'll be able to start getting some console time!
+
+* 301 - The CL series
+
 ## FOH
 ## Monitors
