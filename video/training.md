@@ -17,9 +17,13 @@ Hey! Welcome to the video team! Before you get started, let's prep you for the j
 * 104 - Iris / Gain
 * 105 - White balance
 
+Go play with the camera!! *(Training day at CTB can end here)*
+
 * 201 - Rule of thrids
 * 202 - Movement
 * 203 - When to break these rules
+
+Insert shadow here?
 
 * 300 - Creativity / How we camera on a Sunday
 	* Description of each camera / purpose
