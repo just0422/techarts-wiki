@@ -40,4 +40,4 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [5W's of Video](/video/five-ws)
 * [Documentation](/video/documents) **IN PROGRESS**
 * [Standards](/video/standards) **NOT DONE**
-* [Training](/video/training) **NOT DONE**
+* [Training](/video/training) **IN PROGRESS**
