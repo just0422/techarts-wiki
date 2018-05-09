@@ -10,8 +10,8 @@ On that note, let's get started:
 Everybody starts here. We like to make sure that all of our team members have a good foundation
 
 * 101 - Intro to sound / How a sound system works
-* 103 - How we're setup (at CTG and CTB)
-* 102 - How we make Sunday happen
+* 102 - How we're setup (at CTG and CTB)
+* 103 - How we make Sunday happen
 # The not so basics
 * 201 - How to listen to music
 * 202 - How to examine music
