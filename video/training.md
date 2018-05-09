@@ -29,7 +29,6 @@ Insert shadow here?
 	* Description of each camera / purpose
 	* **Speak to Matthew**
 # The not so basics
-400 - Switching
 * 401 - What do we use (the switcher)
 	* Switcher description
 	* Back panel
