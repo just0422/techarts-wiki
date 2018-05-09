@@ -3,7 +3,7 @@
 
 Media Team Lead:
 **Veronica Munoz**
-Phone: 
+Phone: (516) 946-6338
 Slack: @earth1110
 # Who does what we do?
 On a weekly basis, at CTG, there are two Media technicians. One technician controls graphics and videos that go on screen, while the other controls any text that is displayed on the screens such as lyrics and sermon scriptures. 
