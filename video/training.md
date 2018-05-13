@@ -5,9 +5,6 @@ Hey! Welcome to the video team! Before you get started, let's prep you for the j
 # The basics
 * [101 - What do we use?](/video/training-pages/101)
 * [102 - How do I use this camera?](/video/training-pages/102)
-	* Power button
-	* Power supply
-	* Battery
 * 103 - Zoom
 	* Tripod
 	* Side (near power)
