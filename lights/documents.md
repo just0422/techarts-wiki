@@ -1,5 +1,8 @@
 <!-- TITLE: Documents -->
 
+# How to docs
+* Power on and setup a service
+* Clean a leko
 # Manuals
 ## Consoles
 * [GrandMA Series 1](http://www.actlighting.com/MA/pdf/grandMA6.0e.pdf)
