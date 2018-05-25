@@ -6,12 +6,7 @@ Hey! Welcome to the video team! Before you get started, let's prep you for the j
 * [101 - What do we use?](/video/training-pages/101)
 * [102 - How do I use this camera?](/video/training-pages/102)
 * [103 - Movement](/video/training-pages/103)
-	* Tripod
-	* Side (near power)
-	* Top
-	* Lens 
-	* Focus (and how it relates to zoom)
-* 104 - Iris / Gain
+* [104 - Iris / Gain](/video/training-pages/104)
 * 105 - White balance
 
 Go play with the camera!! *(Training day at CTB can end here)*
