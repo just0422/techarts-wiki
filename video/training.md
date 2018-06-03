@@ -6,8 +6,8 @@ Hey! Welcome to the video team! Before you get started, let's prep you for the j
 * [101 - What do we use?](/video/training-pages/101)
 * [102 - How do I use this camera?](/video/training-pages/102)
 * [103 - Movement](/video/training-pages/103)
-* [104 - Iris / Gain](/video/training-pages/104)
-* 105 - White balance
+* [104 - Brightness](/video/training-pages/104)
+* [105 - Color](/video/training-pages/105)
 
 Go play with the camera!! *(Training day at CTB can end here)*
 
