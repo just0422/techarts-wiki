@@ -14,5 +14,5 @@ We have Technical Producers at both our Glendale and Bushwick Campuses. They're 
 We currently have a once a month rotation, where the TP's serve for all three of our glendale services. Our current call time 7am on sunday mornings, and we stay through till the end of our last service. We do require the TP to attend a thursday night service run through, along with our worship and tech team, the week that they are on to help them be as prepared as possible. 
 
 At our CTB campus, the schedule is the same as our Glendale schedule but you're only responsible for our one, 6pm service. Call time is 4pm. 
-# Why do we do what we do?
-The role of the Technical Producer.....
+# Why do we do what we do
+In the old testament, when God was giving the isrealites instructions on builidng the tabernacle, we see how much he stressed the details. 
