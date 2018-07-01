@@ -9,7 +9,8 @@ Hey! Welcome to the video team! Before you get started, let's prep you for the j
 * [104 - Brightness](/video/training-pages/104)
 * [105 - Color](/video/training-pages/105)
 
-Go play with the camera!! *(Training day at CTB can end here)*
+*Go play with the camera!! (Training day at CTB can end here)*
+Now that we can make the image look crisp, clear, and colorful, we should learn about the rules that govern framing an object in an image
 
 * 201 - Rule of thrids
 * 202 - Movement
