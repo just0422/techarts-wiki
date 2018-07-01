@@ -10,9 +10,9 @@ Hey! Welcome to the video team! Before you get started, let's prep you for the j
 * [105 - Color](/video/training-pages/105)
 
 *Go play with the camera!! (Training day at CTB can end here)*
-Now that we can make the image look crisp, clear, and colorful, we should learn about the rules that govern framing an object in an image
+Now that we can make the image look crisp, clear, and colorful, we should learn about the rules that govern making a shot look **great**!
 
-* 201 - Rule of thrids
+* [201 - Rule of thirds](/video/training-pages/201)
 * 202 - Movement
 * 203 - When to break these rules
 
