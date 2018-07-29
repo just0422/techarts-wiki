@@ -13,7 +13,7 @@ Hey! Welcome to the video team! Before you get started, let's prep you for the j
 Now that we can make the image look crisp, clear, and colorful, we should learn about the rules that govern making a shot look **great**!
 
 * [201 - Rule of thirds](/video/training-pages/201)
-* [202 - Movement](/video/training-pages/201)
+* [202 - Movement](/video/training-pages/202)
 * 203 - When to break these rules
 
 Insert shadow here?
