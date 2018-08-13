@@ -1,4 +1,4 @@
-<!-- TITLE: Training -->
+<!-- TITLE: Media Training -->
 <!-- SUBTITLE: The only way to see a movie is on a big screen with a bag of popcorn. Take away the movie and the popcorn. Add some Jesus (and that's all you really need) -->
 
 Before you get started, there's a quick note. We like to make sure that everyone has ample preparation before you take the reigns for yourself. For that reason, we implement a bunch of _shadowing_ rounded out by some real service practice (with a buddy of course)
