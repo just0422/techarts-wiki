@@ -25,7 +25,7 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [5W's of Media](/media/five-ws)
 * [Documentation](/media/documents) **IN PROGRESS**
 * [Standards](/media/standards) **NOT DONE**
-* [Training](/media/training) ***AWAITING APPROVAL*** / **NEEDS MEDIA**
+* [Training](/media/training) **NEEDS MEDIA**
 ## Producers
 * [5W's of Producers](/producers/five-ws) **IN PROGRESS**
 * [Documentation](/producers/documents) **IN PROGRESS**
