@@ -30,7 +30,7 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [5W's of Producers](/producers/five-ws) **IN PROGRESS**
 * [Documentation](/producers/documents) **IN PROGRESS**
 * [Standards](/producers/standards) **NOT DONE**
-* [Training](/producers/training) **NOT DONE**
+* [Training](/producers/training) **IN PROGRESS (CHRISTINE)**
 ## Stage Crew
 * [5W's of Stage Crew](/stagehands/five-ws) ***Awaiting Approval (Needs info)***
 * [Documentation](/stagehands/documents) **NOT DONE**
@@ -40,4 +40,4 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [5W's of Video](/video/five-ws)
 * [Documentation](/video/documents)
 * [Standards](/video/standards) **NOT DONE**
-* [Training](/video/training) **IN PROGRESS**
+* [Training](/video/training) **IN PROGRESS (MATTHEW)**
