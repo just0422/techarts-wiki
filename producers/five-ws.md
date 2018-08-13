@@ -15,4 +15,4 @@ We currently have a once a month rotation, where the TP's serve for all three of
 
 At our CTB campus, the schedule is the same as our Glendale schedule but you're only responsible for our one, 6pm service. Call time is 4pm. 
 # Why do we do what we do
-In the old testament, when God was giving the isrealites instructions on builidng the tabernacle, we see how much he stressed the details. 
+In the old testament, when God was giving the Israelites instructions on builidng the tabernacle, we see how much he stressed the details. 
