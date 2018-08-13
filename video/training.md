@@ -1,5 +1,5 @@
 <!-- TITLE: Video Training -->
-<!-- SUBTITLE: This journey of 5 levels begins with a single read -->
+<!-- SUBTITLE: This journey of 5 levels begins with a shutter (60 times per second) -->
 
 Hey! Welcome to the video team! Before you get started, let's prep you for the journey. We are the largest team in tech arts. There are at least 5 people working together each week to capture this service (but we can reach 8 on a special day). Everybody starts at the same place operating a camera. That is not the limit though! After mastering each camera, you can get an opportunity to take the reigns and call the shots! If your goal is indeed to direct the video of our service, then we'll get you there, it'll just take some time.
 # The basics
