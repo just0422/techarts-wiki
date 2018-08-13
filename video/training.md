@@ -18,7 +18,8 @@ Now that we can make the image look crisp, clear, and colorful, we should learn 
 
 Insert shadow here?
 
-* 300 - Creativity / How we camera on a Sunday
+* 300 - This our setup and this is how it's important
+* 301 - Creativity / How we camera on a Sunday
 	* Description of each camera / purpose
 	* **Speak to Matthew**
 # The not so basics
