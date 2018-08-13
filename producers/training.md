@@ -20,6 +20,6 @@ Hello! Welcome to the Technical Producing team. We are a very special team in Te
 * 301 - The tools we use ( ShoFlo )
 * 302 - Running a service (Thursday top to bottom + Sunday verses)
 # The not-so-basics
-* Changing the song's feel midway through
+* 401 - Changing the song's feel midway through
 # The advanced
-* Calling a Christmas show
+* 501 - Calling a Christmas show
