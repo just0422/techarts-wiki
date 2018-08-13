@@ -1,5 +1,5 @@
-<!-- TITLE: Training -->
-<!-- SUBTITLE: Follow all these steps and you can take the wheel! -->
+<!-- TITLE: Lights Training -->
+<!-- SUBTITLE: Light up the world! (As long as it's behind a lighting console) -->
 
 Before you get into any of the following steps, I'd like to make you aware that there is a lot of _shadowing_ involved in this process.
 
