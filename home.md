@@ -16,28 +16,34 @@ Hey! Welcome to Tech Arts. Please refer to the links below as you go through the
 * [Documentation](/audio/documents)
 * [Standards](/audio/standards) **NOT DONE**
 * [Training](/audio/training) **NOT DONE**
+* [How do I....](/audio/how-tos) **NOT DONE**
 ## Lights
 * [5W's of Lights](/lights/five-ws)
 * [Documentation](/lights/documents)
 * [Standards](/lights/standards) **NOT DONE**
 * [Training](/lights/training) **IN PROGRESS**
+* [How do I....](/lights/how-tos) **NOT DONE**
 ## Media
 * [5W's of Media](/media/five-ws)
 * [Documentation](/media/documents) **IN PROGRESS**
 * [Standards](/media/standards) **NOT DONE**
 * [Training](/media/training) **NEEDS MEDIA**
+* [How do I....](/media/how-tos) **NOT DONE**
 ## Producers
 * [5W's of Producers](/producers/five-ws) **IN PROGRESS**
 * [Documentation](/producers/documents) **IN PROGRESS**
 * [Standards](/producers/standards) **NOT DONE**
 * [Training](/producers/training) **IN PROGRESS (CHRISTINE)**
+* [How do I....](/producers/how-tos) **NOT DONE**
 ## Stage Crew
 * [5W's of Stage Crew](/stagehands/five-ws) ***Awaiting Approval (Needs info)***
 * [Documentation](/stagehands/documents) **NOT DONE**
 * [Standards](/stagehands/standards) **NOT DONE**
 * [Training](/stagehands/training) **NOT DONE**
+* [How do I....](/stagehands/how-tos) **NOT DONE**
 ## Video
 * [5W's of Video](/video/five-ws)
 * [Documentation](/video/documents)
 * [Standards](/video/standards) **NOT DONE**
 * [Training](/video/training) **IN PROGRESS (MATTHEW)**
+* [How do I....](/video/how-tos) **NOT DONE**
